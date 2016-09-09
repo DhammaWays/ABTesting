@@ -1,0 +1,10 @@
+References
+
+-AB Testing course at www.udacity.com for Data Abalyst Nanodegree
+-Sample size calculator at http://www.evanmiller.org/ab-testing/sample-size.html
+-Sign test calculator at http://graphpad.com/quickcalcs/binomial1.cfm
+-Statistical Inference course in R at https://github.com/swirldev/swirl_courses/tree/master/Statistical_Inference
+-https://en.wikipedia.org/wiki/A/B_testing
+-http://conversionxl.com/ab-testing-statistics/
+-Book: Data Science From Scratch by Joel Grus
+-Book: Statistics in Nutshell by Sarah Boslaugh

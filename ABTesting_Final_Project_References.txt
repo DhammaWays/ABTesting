@@ -6,5 +6,6 @@ References
 -Statistical Inference course in R at https://github.com/swirldev/swirl_courses/tree/master/Statistical_Inference
 -https://en.wikipedia.org/wiki/A/B_testing
 -http://conversionxl.com/ab-testing-statistics/
+-http://onlinelibrary.wiley.com/doi/10.1111/opo.12131/full
 -Book: Data Science From Scratch by Joel Grus
 -Book: Statistics in Nutshell by Sarah Boslaugh
